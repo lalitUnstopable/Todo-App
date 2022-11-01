@@ -3,7 +3,7 @@
 Store data such as name and email address of user
 Update and Delete data of given user
 
-Netlify link (https://localdata.netlify.app/)
+Netlify link https://localdata.netlify.app/
 
 ## Available Scripts
 
