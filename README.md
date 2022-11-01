@@ -1,7 +1,6 @@
 # Todo App
 
-Store data such as name and email address of user
-Update and Delete data of given user
+To Store,Update and Delete data such as name and email address of given user
 
 Netlify link - https://localdata.netlify.app/
 
